@@ -1,19 +1,18 @@
-# Charge Monitor
+# Charge Monitor for Windows
 
-**Charge Monitor** is an Android app that helps users avoid overcharging by notifying them when their device reaches 98% battery. Designed for Android 7 (SDK 24) and above.
+**Charge Monitor** is a Windows app that helps users avoid overcharging their laptop by notifying them when the battery charge reaches 98%. Designed for Windows 11 and later.
 
 ## Features:
-- Alerts when the battery reaches 98%
-- Simple and lightweight
-- Prevents battery overcharging
+- Battery charge notification at 98%
+- Simple and easy to use
 
 ## Download:
-[Click here to download the latest version](https://github.com/JT-tanui/charge-monitor/releases/latest)
+[Download the latest version](https://github.com/JT-tanui/charge-monitor-windows/releases/latest)
 
 ## How to Install:
-1. Download the APK from the link above.
-2. Enable "Install from Unknown Sources" on your Android device.
-3. Open the APK file and follow the prompts to install the app.
+1. Download the `.exe` file from the link above.
+2. Run the installer and follow the prompts to install the app.
+3. Once installed, the app will run in the background and notify you when the battery reaches 98%.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
